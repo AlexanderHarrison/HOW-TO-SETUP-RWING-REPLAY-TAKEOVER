@@ -27,6 +27,8 @@
 ### 7. Copy this path to your clipboard
 ![11](https://github.com/user-attachments/assets/a13985b8-244a-48d5-a2c8-21ab8d8b9381)
 
+- **If you use shift-right click -> copy as path, then you will need to remove the quotes when pasting!**
+
 ### 8. Open up rwing and load a replay
 ![12](https://github.com/user-attachments/assets/94c5144c-89e6-4847-a9d8-f6c311ff02c8)
 
