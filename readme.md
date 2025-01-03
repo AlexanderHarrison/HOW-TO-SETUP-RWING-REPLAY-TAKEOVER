@@ -1,6 +1,8 @@
 # How to set up replay takeover in rwing
 ### If any step isn't working or is confusing, ping me [in my discord](https://discord.gg/2Khb8CVP7A) and I'll help you out
 
+If you are loading in as master hand in Training Mode, switch to port 1. 
+
 ### 1. Go to Slippi settings
 ![1](https://github.com/user-attachments/assets/5078f197-3395-49ed-b47e-857077f5fb71)
 
