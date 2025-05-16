@@ -37,7 +37,7 @@ If you are loading in as master hand in Training Mode, switch to port 1.
 ### 9. Click "Set Export Path"
 ![13](https://github.com/user-attachments/assets/a978dc13-dc4c-4275-9eef-7c4466d40126)
 
-### 10. Paste in the path to "Card A" and select the folder
+### 10. Paste in the path to "Card A", hit enter, then select the folder
 ![14](https://github.com/user-attachments/assets/e36e2000-d176-478a-b26d-767a76b68c52)
 ![15](https://github.com/user-attachments/assets/4bbe669e-861f-4ee9-9f82-5e51eace9fee)
 
